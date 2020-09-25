@@ -1,0 +1,50 @@
+/* Class Styles */
+body {
+    background-color: rgb(235, 235, 235);
+}
+hr {
+    border-top: 1px solid black;
+}
+.container {
+    background-color: white;
+    margin-top: 40px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+}
+.margin-top {
+    margin-top: 5%;
+}
+.margin-top2 {
+    margin-top: 3%;
+}
+.margin {
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.textmargin {
+    margin-top: 10%;
+}
+.font {
+    font-family: italic;
+    }
+.responsive {
+    max-width: 100%;
+    height: auto;
+} 
+
+/* ID Styles */
+
+#listmargin {
+    margin-top: 10%;
+    margin-bottom: 20%;
+    margin-left: 15%;
+}
+#bigmargintop {
+    margin-top: 20%;
+    margin-left: 20%;
+}
+#leftmargin {
+    margin-left: 20%;
+}
+
