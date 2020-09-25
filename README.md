@@ -1,4 +1,4 @@
-# Responsive Portfolio 
+# Updated Portfolio 
 ![](/image2/screenshot.png)
 ## Overview
 This website contains highlights of me and what I have done so far as well as ways to connect with me. 
