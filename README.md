@@ -1,5 +1,5 @@
 # Updated Portfolio 
-![](image2/Screen%20Shot%202020-09-28%20at%2010.35.22%20AM.png.png)
+![](image2/Screen%20Shot%202020-09-28%20at%2010.35.22%20AM.png)
 ## Overview
 This website contains highlights of me and what I have done so far as well as ways to connect with me. 
 
