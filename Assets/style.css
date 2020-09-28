@@ -1,7 +1,7 @@
 /* General Styles */
 
 body {
-    background-color: whitesmoke;
+    background-color: #F6F5F0;
 }
 
 hr {
@@ -37,6 +37,10 @@ hr {
     height: auto;
 } 
 
+.projectName {
+    color: #222;
+    text-align: center;
+}
 /* ID Styles */
 
 #listmargin {
