@@ -1,18 +1,7 @@
 /* Class Styles */
-body {
-    background-color: rgb(88, 128, 189);
-}
 
 hr {
     border-top: 1px solid black;
-}
-
-.container {
-    background-color: white;
-    margin-top: 40px;
-    border: 1px solid;
-    padding: 10px;
-    box-shadow: 5px 10px rgb(48, 48, 48);
 }
 
 .margin-top {
@@ -30,6 +19,7 @@ hr {
 
 .textmargin {
     margin-top: 10%;
+    font-size: 15pt;
 }
 
 .font {
