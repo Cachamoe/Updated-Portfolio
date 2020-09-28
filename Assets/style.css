@@ -1,8 +1,14 @@
-/* Class Styles */
+/* General Styles */
+
+body {
+    background-color: whitesmoke;
+}
 
 hr {
     border-top: 1px solid black;
 }
+
+/* Class Styles */
 
 .margin-top {
     margin-top: 5%;
