@@ -12,7 +12,7 @@ Here is a link to the deployed webpage: [https://cachamoe.github.io/Updated-Port
 4) Responsive web design that adjusts as the user changes the screen size
 
 ## Programs 
-HTML, CSS, Javascript, Jquery, SCSS, Bootstrap, and Font Awesome
+HTML, CSS, SCSS, Javascript, jQuery, Bootstrap, and Font Awesome
 
 ## Author/s
 Caleb Chaney
