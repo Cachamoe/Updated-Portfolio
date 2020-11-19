@@ -14,5 +14,8 @@ Here is a link to the deployed webpage: [https://cachamoe.github.io/Updated-Port
 ## Programs 
 HTML, CSS, SCSS, Javascript, jQuery, Bootstrap, and Font Awesome
 
+## License 
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
 ## Author/s
 Caleb Chaney
