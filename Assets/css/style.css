@@ -490,8 +490,7 @@ h1, h2, h3, h4, h5,
   .site-navbar .site-logo {
     position: absolute;
     font-size: 1.2rem;
-    text-transform: uppercase;
-    font-weight: 900;
+    font-weight: 750;
     line-height: 0;
     margin: 0;
     padding: 0;
