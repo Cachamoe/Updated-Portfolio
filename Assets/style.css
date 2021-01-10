@@ -23,6 +23,10 @@ hr {
     margin-bottom: 3%;
 }
 
+.marginLeft {
+    text-align: center;
+}
+
 .textmargin {
     margin-top: 10%;
     font-size: 15pt;
